@@ -1,0 +1,7 @@
+--> Friend Luis Rachel
+    A person with name Luis does not currently exist.
+
+    A person with name Rachel does not currently exist.
+
+--> Exit
+    Exiting...
